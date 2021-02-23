@@ -1,6 +1,7 @@
 {
-  "name": "with-typescript",
-  "version": "1.0.0",
+  "name": "pkanade.com",
+  "version": "0.0.1",
+  "author": "Pranav Kanade <k.pranav.apk@gmail.com> (https://pkanade.com/)",
   "scripts": {
     "dev": "next",
     "build": "next build",
